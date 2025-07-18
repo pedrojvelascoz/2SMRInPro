@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "UT3CheesyPizza/1.0.0": {
+        "runtime": {
+          "UT3CheesyPizza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UT3CheesyPizza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

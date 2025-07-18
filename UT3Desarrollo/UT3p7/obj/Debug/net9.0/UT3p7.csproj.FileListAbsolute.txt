@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/UT3p7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/UT3p7.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/UT3p7.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/UT3p7.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/bin/Debug/net9.0/UT3p7
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/bin/Debug/net9.0/UT3p7.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/bin/Debug/net9.0/UT3p7.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/bin/Debug/net9.0/UT3p7.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/bin/Debug/net9.0/UT3p7.pdb
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/UT3p7.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/refint/UT3p7.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/UT3p7.pdb
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/UT3p7.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p7/obj/Debug/net9.0/ref/UT3p7.dll

@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/bin/Debug/net9.0/UT3CheesyPizza
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/bin/Debug/net9.0/UT3CheesyPizza.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/bin/Debug/net9.0/UT3CheesyPizza.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/bin/Debug/net9.0/UT3CheesyPizza.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/bin/Debug/net9.0/UT3CheesyPizza.pdb
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/UT3CheesyPizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/UT3CheesyPizza.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/UT3CheesyPizza.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/UT3CheesyPizza.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/UT3CheesyPizza.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/refint/UT3CheesyPizza.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/UT3CheesyPizza.pdb
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/UT3CheesyPizza.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3CheesyPizza/obj/Debug/net9.0/ref/UT3CheesyPizza.dll

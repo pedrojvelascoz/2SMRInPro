@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/bin/Debug/net9.0/UT2p4
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/bin/Debug/net9.0/UT2p4.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/bin/Debug/net9.0/UT2p4.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/bin/Debug/net9.0/UT2p4.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/bin/Debug/net9.0/UT2p4.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/UT2p4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/UT2p4.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/UT2p4.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/UT2p4.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/UT2p4.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/refint/UT2p4.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/UT2p4.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/UT2p4.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2p4/obj/Debug/net9.0/ref/UT2p4.dll

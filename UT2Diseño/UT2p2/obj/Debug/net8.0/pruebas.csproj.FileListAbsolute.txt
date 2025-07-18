@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/pruebas/bin/Debug/net8.0/pruebas
+/Users/maMASanzsanz/Desktop/pruebas/bin/Debug/net8.0/pruebas.deps.json
+/Users/maMASanzsanz/Desktop/pruebas/bin/Debug/net8.0/pruebas.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/pruebas/bin/Debug/net8.0/pruebas.dll
+/Users/maMASanzsanz/Desktop/pruebas/bin/Debug/net8.0/pruebas.pdb
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/pruebas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/pruebas.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/pruebas.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/pruebas.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/pruebas.dll
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/refint/pruebas.dll
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/pruebas.pdb
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/pruebas.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/pruebas/obj/Debug/net8.0/ref/pruebas.dll

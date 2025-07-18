@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/bin/Debug/net9.0/UT3p8
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/bin/Debug/net9.0/UT3p8.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/bin/Debug/net9.0/UT3p8.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/bin/Debug/net9.0/UT3p8.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/bin/Debug/net9.0/UT3p8.pdb
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/UT3p8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/UT3p8.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/UT3p8.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/UT3p8.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/UT3p8.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/refint/UT3p8.dll
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/UT3p8.pdb
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/UT3p8.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT3Desarrollo/UT3p8/obj/Debug/net9.0/ref/UT3p8.dll
