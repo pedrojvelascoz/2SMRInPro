@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/bin/Debug/net9.0/4 primeras funciones
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/bin/Debug/net9.0/4 primeras funciones.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/bin/Debug/net9.0/4 primeras funciones.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/bin/Debug/net9.0/4 primeras funciones.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/bin/Debug/net9.0/4 primeras funciones.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/4 primeras funciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/4 primeras funciones.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/4 primeras funciones.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/4 primeras funciones.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/4 primeras funciones.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/refint/4 primeras funciones.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/4 primeras funciones.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/4 primeras funciones.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/4 primeras funciones/obj/Debug/net9.0/ref/4 primeras funciones.dll

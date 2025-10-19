@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/bin/Debug/net9.0/3 usuario decide si seguir
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/bin/Debug/net9.0/3 usuario decide si seguir.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/bin/Debug/net9.0/3 usuario decide si seguir.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/bin/Debug/net9.0/3 usuario decide si seguir.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/bin/Debug/net9.0/3 usuario decide si seguir.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/3 usuario decide si seguir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/3 usuario decide si seguir.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/3 usuario decide si seguir.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/3 usuario decide si seguir.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/3 usuario decide si seguir.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/refint/3 usuario decide si seguir.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/3 usuario decide si seguir.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/3 usuario decide si seguir.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/3 usuario decide si seguir/obj/Debug/net9.0/ref/3 usuario decide si seguir.dll

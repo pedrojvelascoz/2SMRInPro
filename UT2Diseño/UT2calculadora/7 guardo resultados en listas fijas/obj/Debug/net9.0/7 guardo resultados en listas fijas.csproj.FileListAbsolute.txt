@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/bin/Debug/net9.0/7 guardo resultados en listas fijas
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/bin/Debug/net9.0/7 guardo resultados en listas fijas.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/bin/Debug/net9.0/7 guardo resultados en listas fijas.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/bin/Debug/net9.0/7 guardo resultados en listas fijas.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/bin/Debug/net9.0/7 guardo resultados en listas fijas.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/7 guardo resultados en listas fijas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/7 guardo resultados en listas fijas.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/7 guardo resultados en listas fijas.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/7 guardo resultados en listas fijas.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/7 guardo resultados en listas fijas.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/refint/7 guardo resultados en listas fijas.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/7 guardo resultados en listas fijas.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/7 guardo resultados en listas fijas.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/7 guardo resultados en listas fijas/obj/Debug/net9.0/ref/7 guardo resultados en listas fijas.dll

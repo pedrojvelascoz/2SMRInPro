@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/bin/Debug/net9.0/6 el switch funciona porque paso por referencia
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/bin/Debug/net9.0/6 el switch funciona porque paso por referencia.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/bin/Debug/net9.0/6 el switch funciona porque paso por referencia.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/bin/Debug/net9.0/6 el switch funciona porque paso por referencia.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/bin/Debug/net9.0/6 el switch funciona porque paso por referencia.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/6 el switch funciona porque paso por referencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/6 el switch funciona porque paso por referencia.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/6 el switch funciona porque paso por referencia.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/6 el switch funciona porque paso por referencia.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/6 el switch funciona porque paso por referencia.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/refint/6 el switch funciona porque paso por referencia.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/6 el switch funciona porque paso por referencia.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/6 el switch funciona porque paso por referencia.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/6 el switch funciona porque paso por referencia/obj/Debug/net9.0/ref/6 el switch funciona porque paso por referencia.dll

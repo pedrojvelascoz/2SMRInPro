@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/bin/Debug/net9.0/1 simple
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/bin/Debug/net9.0/1 simple.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/bin/Debug/net9.0/1 simple.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/bin/Debug/net9.0/1 simple.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/bin/Debug/net9.0/1 simple.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/1 simple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/1 simple.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/1 simple.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/1 simple.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/1 simple.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/refint/1 simple.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/1 simple.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/1 simple.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/1 simple/obj/Debug/net9.0/ref/1 simple.dll

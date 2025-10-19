@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/bin/Debug/net9.0/5 funcion de switch que no funciona
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/bin/Debug/net9.0/5 funcion de switch que no funciona.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/bin/Debug/net9.0/5 funcion de switch que no funciona.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/bin/Debug/net9.0/5 funcion de switch que no funciona.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/bin/Debug/net9.0/5 funcion de switch que no funciona.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/5 funcion de switch que no funciona.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/5 funcion de switch que no funciona.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/5 funcion de switch que no funciona.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/5 funcion de switch que no funciona.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/5 funcion de switch que no funciona.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/refint/5 funcion de switch que no funciona.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/5 funcion de switch que no funciona.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/5 funcion de switch que no funciona.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/5 funcion de switch que no funciona/obj/Debug/net9.0/ref/5 funcion de switch que no funciona.dll

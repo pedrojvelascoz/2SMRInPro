@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/bin/Debug/net9.0/2 mensaje final con if
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/bin/Debug/net9.0/2 mensaje final con if.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/bin/Debug/net9.0/2 mensaje final con if.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/bin/Debug/net9.0/2 mensaje final con if.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/bin/Debug/net9.0/2 mensaje final con if.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/2 mensaje final con if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/2 mensaje final con if.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/2 mensaje final con if.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/2 mensaje final con if.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/2 mensaje final con if.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/refint/2 mensaje final con if.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/2 mensaje final con if.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/2 mensaje final con if.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/2 mensaje final con if/obj/Debug/net9.0/ref/2 mensaje final con if.dll

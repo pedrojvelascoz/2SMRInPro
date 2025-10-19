@@ -1,0 +1,14 @@
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/bin/Debug/net9.0/8 guardo resultados en listas variables
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/bin/Debug/net9.0/8 guardo resultados en listas variables.deps.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/bin/Debug/net9.0/8 guardo resultados en listas variables.runtimeconfig.json
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/bin/Debug/net9.0/8 guardo resultados en listas variables.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/bin/Debug/net9.0/8 guardo resultados en listas variables.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/8 guardo resultados en listas variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/8 guardo resultados en listas variables.AssemblyInfoInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/8 guardo resultados en listas variables.AssemblyInfo.cs
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/8 guardo resultados en listas variables.csproj.CoreCompileInputs.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/8 guardo resultados en listas variables.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/refint/8 guardo resultados en listas variables.dll
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/8 guardo resultados en listas variables.pdb
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/8 guardo resultados en listas variables.genruntimeconfig.cache
+/Users/maMASanzsanz/Desktop/programas/UT2Diseño/UT2calculadora/8 guardo resultados en listas variables/obj/Debug/net9.0/ref/8 guardo resultados en listas variables.dll
